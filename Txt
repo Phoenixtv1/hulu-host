@@ -33,3 +33,4 @@
 0.0.0.0 ts.vindicosuite.com
 0.0.0.0 view.atdmt.com.nsatc.net
 0.0.0.0 vindicoasset.edgesuite.net
+0.0.0.0 ads-e-darwin.hulustream.com
